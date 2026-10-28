@@ -1,0 +1,8 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/io.github.rochathili.Cordel.desktop.in
+data/io.github.rochathili.Cordel.metainfo.xml.in
+data/io.github.rochathili.Cordel.gschema.xml
+src/main.vala
+src/window.vala
+src/window.ui

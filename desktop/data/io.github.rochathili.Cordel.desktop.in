@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Cordel
+Exec=cordel
+Icon=io.github.rochathili.Cordel
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true
